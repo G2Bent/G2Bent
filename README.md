@@ -1,7 +1,8 @@
 ### <div align="center">I'm Vant, a play boy.</div>  
   
 
-- 🔭 I’m currently working on [aftership](https://github.com/AfterShip)  
+- 🔭 I’m currently working on [aftership](https://github.com/AfterShip)
+- 🔭 please contact me if you want to join in aftership
   
 
 - 🌱 I’m currently learning autotest  
